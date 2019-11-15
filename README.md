@@ -8,9 +8,7 @@
 - [Problem Statement](#problem)
 - [Files](#files)
 - [Software Requirements](#sr)
-- [Part 2: Data Analysis](#p1)
 - [Conclusion](#conclusion)
-- [References](#refs)
 
 <a id="intro"></a>
 
@@ -40,28 +38,11 @@ This project uses Microsoft Excel or Google Sheets for creating the visualisatio
 
 </pre>
 
-<a id="p1"></a>
+<a id="conclusion"></a>
 
-## Part 2: Data Analysis
+## Conclusion
 
-Distribution of hourly entries when calculated on the basis of raining condition
-gives some interesting results.
+The temperatures in both the global level and local level have certainly gone up. If we compare the recorded local and global temperature in 1796 and the one in 2013, there is an increase of over 1 degree Celsius. This trend can be seen if you compare the MA as well of the respective years.
 
-<a id="plot"></a>
 
-<img src="./img/dist.png" alt="dist" width="100%">
 
-<a id="p2"></a>
-
-## Part 2: Data Analysis
-
-Distribution of hourly entries when calculated on the basis of raining condition
-gives some interesting results.
-
-<a id="plot"></a>
-
-<img src="./img/dist.png" alt="dist" width="100%">
-
-This distribution is highly right-skewed for both the cases. Hourly entries are
-significantly higher when it doesn't rain. It means more people use the subway
-when the sky is clear.
