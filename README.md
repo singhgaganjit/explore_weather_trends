@@ -33,8 +33,9 @@ This project uses Microsoft Excel or Google Sheets for creating the visualisatio
 ## Files
 
 <pre>
-.
+
 ├── Temperatures.csv---------# ANALYSIS NOTEBOOK WHICH CONTAINS THE TEMPERATURE DATA OF MY CITY JAIPUR ALONG WITH GLOBAL TEMPERATURES
+├── Weather_Trends_project.pdf---------# OBSERVATIONS ON THE LOCAL AND GLOBAL TEMPERATURES
 
 </pre>
 
